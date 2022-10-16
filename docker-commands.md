@@ -7,7 +7,7 @@ Demonstration of Basic Docker Command
 
 `docker --version`
 
-![Docker Version](https://github.com/vrundag91/git_commands/blob/master/git-commands-screenshot/git-clone.PNG)
+![Docker Version](https://github.com/vrundag91/docker_and_docker_hub/blob/main/docker-screenshots/docker-version.PNG)
 
 <hr>
 
@@ -15,7 +15,7 @@ Demonstration of Basic Docker Command
 
 `docker pull <docker image name>`
 
-![Docker pull](https://github.com/vrundag91/git_commands/blob/master/git-commands-screenshot/git-clone.PNG)
+![Docker pull](https://github.com/vrundag91/docker_and_docker_hub/blob/main/docker-screenshots/docker-pull.PNG)
 
 <hr>
 
@@ -23,7 +23,7 @@ Demonstration of Basic Docker Command
 
 `docker run <docker image name>`
 
-![Docker run](https://github.com/vrundag91/git_commands/blob/master/git-commands-screenshot/git-clone.PNG)
+![Docker run](https://github.com/vrundag91/docker_and_docker_hub/blob/main/docker-screenshots/docker-run.PNG)
 
 <hr>
 
@@ -33,7 +33,7 @@ Demonstration of Basic Docker Command
 
 `docker ps -a`
 
-![Docker ps](https://github.com/vrundag91/git_commands/blob/master/git-commands-screenshot/git-clone.PNG)
+![Docker ps](https://github.com/vrundag91/docker_and_docker_hub/blob/main/docker-screenshots/docker-ps.PNG)
 
 <hr>
 
