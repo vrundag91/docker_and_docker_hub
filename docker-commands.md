@@ -91,6 +91,15 @@
 
 <hr>
 
+<p>10. Docker build :This command builds the docker container</p>
+
+`docker build -t <conatainer name> .`
+
+
+![Docker images](https://github.com/vrundag91/docker_and_docker_hub/blob/main/docker-screenshots/docker-build.PNG)
+
+<hr>
+
 
 
 
