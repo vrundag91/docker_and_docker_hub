@@ -100,8 +100,23 @@
 
 <hr>
 
+<p>10. Docker login :This command helps login into dockerHub</p>
 
+`docker login `
 
+`username: <your DockerHub Username>`
+
+`password: <your DockerHub Password>`
+
+![Docker images](https://github.com/vrundag91/docker_and_docker_hub/blob/main/docker-screenshots/docker-login.PNG)
+
+<hr>
+
+<p>10. Docker push :This command will push the Docker Image on DockerHub</p>
+
+`docker push <your username>/<your imagename>`
+
+<hr>
 
 
 
