@@ -16,7 +16,7 @@
 
 <p>Automation for Building and Pushing the Image to DockerHub using GitHub actions</p>
 
-![GitHub Actions](https://github.com/vrundag91/docker_and_docker_hub/blob/main/docker-screenshots/github-actions.PNG)
+[GitHub Actions](https://github.com/vrundag91/welcome-fast-api/actions/runs/3287783913/jobs/5417337769)
 
     
     
